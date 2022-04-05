@@ -17,6 +17,8 @@ Rockbuster.tar (zipped) file
 # Tools
 ● pgAdmin 4
 
+● SQL
+
 ● Excel
 
 ● Tableau
